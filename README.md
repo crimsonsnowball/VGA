@@ -8,8 +8,6 @@
 - [Results](#results)  
 - [Future Enhancements](#future-enhancements)  
 - [Getting Started](#getting-started)  
-- [Acknowledgements](#acknowledgements)  
-- [License](#license)  
 
 ---
 
